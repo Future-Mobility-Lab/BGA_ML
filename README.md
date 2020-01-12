@@ -7,6 +7,7 @@ Just download this project and use jupyter note to open: the "Test19_GA_with_ML.
 
 # Author
 Tuo Mao (UTS)
+Future moibility lab (The Future Mobility lab (FMlab) in University of Technology Sydney is part of a new Data Science Institute launched in January 2019 by the University of Technology in Sydney under the Faculty of Engineering and IT. The research lab is focusing on developing advanced data driven models for solving some burning real-world problems such as traffic congestion, smart city liveability, mobility fluidity, and transitioning towards new emerging transport modes such as connected and autonomous vehicles, on-demand transport, vehicle-to-vehicle and vehicle-to-infrastructure communications. http://futuremobilitylab.org/) 
 
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
