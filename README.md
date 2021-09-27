@@ -17,7 +17,8 @@ Future moibility lab (The Future Mobility lab (FMlab) in University of Technolog
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-No special license. 
+GENERAL PUBLIC LICENSE (GPL v3.0).
+https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ## Project status
 Currently done for this application. 
